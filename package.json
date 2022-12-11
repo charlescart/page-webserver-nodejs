@@ -11,7 +11,7 @@
   "author": "Ing. Charles Rodriguez",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "has": "^1.0.3",
     "hbs": "^4.0.4"
   },
